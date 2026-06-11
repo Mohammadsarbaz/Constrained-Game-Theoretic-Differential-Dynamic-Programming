@@ -41,6 +41,7 @@ CGT-DDP applied to a two-player pursuit-evasion differential game. The pursuer m
 
 ## 🛠️ Requirements
 - Python 3.8 or later
+- MATLAB R2020a or later
 - NumPy
 - SciPy
 - Matplotlib
@@ -53,9 +54,11 @@ pip install numpy scipy matplotlib
 ## 🚀 How to Run
 1. Clone or download this repository
 2. Navigate to the desired example folder
-3. Run the main Python script:
+3. Run the MATLAB
+4. Run the main Python script:
 ```bash
 python main.py
+MATLAB main.m
 ```
 
 ## 📊 Results
