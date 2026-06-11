@@ -1,6 +1,6 @@
 # Constrained Game-Theoretic Differential Dynamic Programming (CGT-DDP)
 
-Python implementation of **Constrained Game-Theoretic Differential Dynamic Programming (CGT-DDP)** for continuous-time nonlinear systems subject to both point-wise and functional constraints.
+Python and MATLAB implementation of **Constrained Game-Theoretic Differential Dynamic Programming (CGT-DDP)** for continuous-time nonlinear systems subject to both point-wise and functional constraints.
 
 ---
 
